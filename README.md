@@ -1,4 +1,4 @@
-# Bài Thực Hành 01: Ứng dụng AI trong Cấu hình và Giải quyết Sự cố
+# Bài Thực Hành 01
 
 ## Mô tả nội dung thực hành
 
