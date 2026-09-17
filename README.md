@@ -2,7 +2,7 @@
 
 ## Mô tả nội dung thực hành
 
-Repo này lưu trữ kết quả **Bài thực hành 01 – Ứng dụng AI trong Cấu hình và Giải quyết Sự cố**, gồm 3 phần chính:
+Repo này lưu trữ kết quả **Bài thực hành 01**, gồm 3 phần chính:
 
 - **Phần 1 – Cấu hình phần cứng/phần mềm với hỗ trợ AI:** Sử dụng AI để tìm hiểu thông số CPU/RAM/ổ cứng và hướng dẫn cài đặt, cấu hình Notepad++ để viết code Python.
 - **Phần 2 – Giải quyết sự cố kỹ thuật đơn giản với AI:** Sử dụng AI để khắc phục lỗi kết nối Wi-Fi trên Windows 10 và lỗi Notepad++ không mở được file Python lớn.
